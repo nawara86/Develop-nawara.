@@ -1,0 +1,379 @@
+.container{
+    background-color:white;
+    padding: auto;
+    border: auto;
+}
+.nav{
+    padding: auto;
+    justify-content: right;
+    flex-direction: row;
+    justify-items:flex-end;
+    display: flex;
+    color:#0c1753;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    gap:30px;
+    border: auto;
+}
+header{
+    padding:10px;
+    font-size:medium;
+    color:white;
+background-color: #9375ff;
+border: auto;
+  
+}
+header button {
+    color: #00a69c;
+    background-color: #ffe101;
+    font-size: large;
+    font :bold;
+    height: 30px;
+    width: 100px;
+    border-radius: 15%;
+    box-shadow: none;
+    border: none;}
+
+
+    .card1 {
+        margin: 20px;
+        gap:30px;
+       column-gap: 30px;
+        justify-content:space-evenly;
+        border: auto;
+    flex-direction: column;
+        background-color: rgb(241, 235, 241);
+        padding:20px;
+    }
+
+        .UX{
+            border: auto;
+            justify-content: left;
+            position: relative;
+            top: 10px;
+            left: auto;
+            font-family: cursive;
+            align-items: baseline;
+        align-content: left;
+        flex-direction: column;
+        box-shadow: gray;
+            border-bottom-left-radius: 10px;
+background-color: white;
+background-image:var(#fee552);
+background-position: left;
+padding: 10px;
+        }
+        .FRONT {
+            align-items: baseline;
+            background-position: center;
+            flex-direction: column;
+            position:relative;
+        left:500px;
+        top:10px;
+        justify-content: center;
+            border-bottom: gray;
+            border-bottom-left-radius: 10px;
+   background-color: white;
+   background-image:var(#fee552);
+   border-color: gray;
+   border:auto ;
+  
+   padding: 10px;
+           }
+     .SUPPORT{
+        border: auto;
+        background-position: center;
+        background-image:var(#fee552);
+        align-items:right ;
+        flex-direction: column;
+         justify-content: right;
+        position:relative;
+        left: 1000px;
+        top:10px;
+            border-bottom: gray;
+            border-bottom-left-radius: 10px;
+            background-color: white;
+   border-color: gray;
+
+   padding: 10px;
+
+     }
+        h2{
+            color: #00a69c;
+        font-family:  quicksand   ; 
+            font-size:x-large;
+            text-align: center;
+            background-color: white;
+         padding: 20px;
+        }
+        .card2{
+            border: auto;
+            padding: 40px;
+       background-color: white;
+       flex-direction: row;
+        }
+
+        .pic1{  
+            position: relative;
+            width: 40px;
+            top: 50px;
+             flex-direction: row;
+            left:auto;
+            margin: 20px;
+            gap:30px;
+            justify-content:space-evenly;
+            padding: 10px;
+        }
+        h3{
+
+            flex-direction: row;
+            position: relative;
+            top: 50px;
+            left:auto;
+            margin: 20px;
+            gap:30px;
+            justify-content:space-evenly;
+            padding: 10px;
+            justify-self:left;
+            color: #00a69c;
+            font-family:  quicksand   ; 
+                font-size:x-large;
+                text-align: left
+            }
+            
+        .paragraph1{
+            position: relative;
+            top: 50px;
+             flex-direction: row;
+            margin: 20px;
+            gap:30px;
+            justify-content:space-evenly;
+            padding: 10px;
+            left:300px;
+        
+            font-size:small
+        ;}
+
+        h4{
+            flex-direction: row;
+            position: relative;
+            top: 50px;
+            left:auto;
+            margin: 20px;
+            gap:30px;
+            justify-content:space-evenly;
+            padding: 10px;
+            justify-self:left;
+            color: #00a69c;
+            font-family:  quicksand   ; 
+                font-size:x-large;
+                text-align: left;
+             
+                background-color: white;
+            
+         
+        }
+            .paragraph2{
+                flex-direction: row;
+                position: relative;
+                top: 50px;
+                left:auto;
+                margin: 20px;
+                gap:30px;
+                justify-content:space-evenly;
+                padding: 10px;
+                font-size:small;
+            }
+      .pic2{
+        width: 40px;
+        flex-direction: row;
+        position: relative;
+        top: 50px;
+        left:500px;
+        margin: 20px;
+        gap:30px;
+        justify-content:space-evenly;
+        padding: 10px;
+    }
+      .pic3{
+          width: 40px;
+        position: relative;
+            top: 50px;
+             flex-direction: row;
+            left:auto;
+            margin: 20px;
+            gap:30px;
+            justify-content:space-evenly;
+            padding: 10px;
+      }
+    .paragraph3{
+        position: relative;
+        top: 50px;
+         flex-direction: row;
+        margin: 20px;
+        gap:30px;
+        justify-content:space-evenly;
+        padding: 10px;
+        left:300px;
+    
+        font-size:small;
+        } 
+     
+        
+        h5{
+
+
+            flex-direction: row;
+            position: relative;
+            top: 50px;
+            left:auto;
+            margin: 20px;
+            gap:30px;
+            justify-content:space-evenly;
+            padding: 10px;
+            justify-self:left;
+            color: #00a69c;
+            font-family:  quicksand   ; 
+                font-size:x-large;
+                text-align: left;
+
+        }
+       .software1{
+            justify-content: space-between;
+            gap: 20px;
+            padding: 100px;
+            text-align: center;
+            background-color: chartreuse;
+        }
+        
+    
+ .part-image{
+justify-content:left;
+justify-items: left;
+padding: 30px;
+ }
+ .features {
+    background-color:white;}
+
+ .form-container{
+    background-color: #0c1753;
+
+}
+div button{ color: #0c1753;
+    background-color: #fee552;
+    font-size: large;
+    font :bold;
+    height: 30px;
+    width: 170px;
+    border-radius:none;
+    box-shadow:none;
+    border: none;
+
+}
+h5 {color: #00a69c;
+
+    font-size:x-large;
+    text-align: left;
+    background-color: white;
+    padding: 30px;
+}
+h6{
+    color:white;
+    font-size:medium;
+    text-align: center;
+}
+h7{
+    color:white;
+    font-style: normal;
+    font-size:xx-large;
+   text-align: left;
+   justify-content: left;
+  height: 15px;
+    padding: 15px;
+}
+
+
+.form-container{
+background-color:#0c1753;
+padding: 50px;
+text-align:center;
+}
+.card3{
+    background-color: rgb(241, 235, 241);
+    padding:50px;
+    justify-content:left;
+    justify-items: left;
+    
+    margin: 20px;
+}
+
+h8{
+   color:#00a69c;
+    font-size:large;
+    text-align:right;
+    padding:10px;
+    justify-content:end;
+
+}
+h9{
+    color:#00a69c;
+    font-size:large;
+    text-align:center;
+    padding: 30px;
+    justify-content:end;
+}
+h10{
+    color:#00a69c;
+    font-size:large;
+    text-align:left;
+    padding: 30px;
+    justify-content:end;
+   
+}
+h11 {
+    color:#0c1753;
+    font-size:small;
+    text-align:left;
+    padding: 30px;
+    justify-content:end;
+    font-family: monospace;
+}h12{
+    color:#0c1753;
+    font-size:small;
+    text-align:left;
+    padding: 30px;
+    justify-content:end;}
+    
+.last-logo{
+    position: relative;
+            width: 40px;
+            top: 50px;
+             flex-direction: column;
+            left:auto;
+            margin: 20px;
+            gap:30px;
+            justify-content:space-evenly;
+            padding: 10px;
+}
+
+.soical{
+    position: relative;
+            width:1pt;
+            height:0pt;
+            top: 1px;
+             flex-direction: row;
+            left:auto;
+            margin:5px;
+            gap:10px;
+            justify-content:space-evenly;
+            padding: 1px;
+}
+footer{ 
+    background-color:rgb(138, 109, 173);
+    font-family:quicksand;
+    font-size: medium;
+    color: white;
+    padding:20px;
+}
+footer strong{
+    color: black;
+}
